@@ -37,17 +37,18 @@
 
 ## About
 
-Are you ready to unravel the mysteries hidden within time series data? Look no further than the Time Series Guide! Repository is packed with resources, project ideas, and tips to help you master the art of time series analysis. Join us on a journey of exploration and discovery, and unleash the power of time series in your data science journey! 
+Are you ready to unravel the mysteries hidden within time series data? Look no further than the Time Series Guide! Repository is packed with resources, project ideas, and tips to help you master the art of time series analysis 📈  Join us on a journey of exploration and discovery, and unleash the power of time series in your data science journey! 🚀
 
-**Why Time Series Analysis ?**
+**🟣 Why Time Series Analysis ?**
 
-Have you ever wondered what the stock market will look like next month? Or how the weather will be next week? Or what will be the sales of the store in next quarter. These questions are perfect examples of the kind of problems that can be solved with the help of time series analysis. Time series analysis allows you to understand, interpret, and predict patterns in data over time. By analyzing past trends and patterns, we can gain insights into what the future may hold with the perspective of data. So get you're ready to unlock the secrets of time series analysis.
+Have you ever wondered what the stock market will look like next month? Or how the weather will be next week? Or what will be the sales of the store in next quarter ❓ These questions are perfect examples of the kind of problems that can be solved with the help of time series analysis. Time series analysis allows you to understand, interpret, and predict patterns in data over time. By analyzing past trends and patterns, we can gain insights into what the future may hold with the perspective of data. So get you're ready to unlock the secrets of time series analysis 📊
 
-**Difference between Time Series and Interpolation Method ?**
+**🟣 Difference between Time Series and Interpolation Method ?**
 
 Major difference between time series analysis and interpolation methods is that time series analysis is focused more on analyzing data over time to identify patterns, and trends. While interpolation methods are focused on estimating missing data points between known data points. 
 
 Time series analysis  ---->  When predicting future values is important
+
 Interpolation methods ---->  Filling in missing data.
 
 ## Features
