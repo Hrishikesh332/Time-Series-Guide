@@ -108,27 +108,6 @@ https://www.kaggle.com/discussions/general/310100#1706540
 
 
 
- ## Instructions on running project locally:
-
-Clone the project
-
-```bash
-  git clone https://github.com/Hrishikesh332/Time-Series-Guide.git
-```
-
-Install Dependecies
-
-```bash
-    pip install -r requirements.txt 
-```
-Run Project
-
-```bash
-    streamlit run app.py
-````
-
-
-
 ## Authors
 
 🔆 [@Hrishikesh Yadav](https://github.com/Hrishikesh332)
